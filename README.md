@@ -1,1 +1,1 @@
-# Lorenz time series forecasting
+# Time series forecasting

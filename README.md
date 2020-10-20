@@ -1,1 +1,1 @@
-# Financial-time-series-forecasting
+# Lorenz time series forecasting
